@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*Stephanie Cortes*
 
-*[Your Cohort, Campus & Date]*
+*Victor Hernandez, Campus Mexico, September 2020*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,23 +14,25 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
+Stop the bomb! is a one-player game were you have to guess the combination to stop a bomb but you only have 4 opportunities. We decided to do this to practice loops, error handling and functions. 
 
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
+The program starts by asking a user to input four numbers but only have 4 opportunities to guess the right combination.
+
+The game ends when the player successfully guesses the right combination.
 
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+This was one collab project worked in one week working hand-in-hand.
 
 <a name="links"></a>
 
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/StephanieCortes/project-build-your-own-game)  
+[Slides](https://docs.google.com/presentation/d/1y79rr7SV3CsVu_e4yZ2NBvtwE5wJYd_kQk9lRp-vywg/edit?usp=sharing)  
+[Flowchart](https://embed.creately.com/O8QIqd1wJJn?token=vv0mF0F7RpssTcmx&type=svg)  
